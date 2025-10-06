@@ -11,5 +11,5 @@ This AI-powered surveillance system automatically detects violent actions in CCT
 2.pip install -r requirements.txt
 # place your YOLOv11 trained model at
 3. model/best.pt
-# RUn
+# Run
 4. python main.py
